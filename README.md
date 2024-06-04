@@ -16,7 +16,7 @@ sudo apt update && sudo apt install ansible unzip git -y
 ```
 2. Clone this repository
 ```bash
-git clone https://github.com/caiodelgadonew/tools.git
+git clone https://github.com/alexramos2007/bootstrap-tools.git
 ```
 
 3. Apply the configuration
