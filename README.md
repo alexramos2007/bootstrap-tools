@@ -1,4 +1,3 @@
-# bootstrap-tools
 # Workstation Tools
 
 This repository contains scripts to automate and speedup the workflow and preparation for my machine.
